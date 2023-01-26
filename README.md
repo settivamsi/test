@@ -4,3 +4,7 @@ hello my name is vamsi
 # Time table
 
 ## to do list
+
+- [ ] javascript
+- [ ] arithmetics
+- [ ] pure maths
