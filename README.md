@@ -22,3 +22,9 @@ hello my name is vamsi
 > government of andhra pradesh
 
 ### OTHER BACKWARD CLASSES
+
+- cube
+- cuboid
+- cylinder
+- sphere
+- cone
