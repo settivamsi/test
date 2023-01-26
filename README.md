@@ -21,4 +21,4 @@ hello my name is vamsi
 
 > government of andhra pradesh
 
-'console.log'(vamsi)
+'console.log' (vamsi)
