@@ -14,7 +14,7 @@ hello my name is vamsi
 
 # topics to be covered
 
-** arithmetics **
+**arithmetics**
 
-1. * speed and distance *
-2. * profit and loss *
+1. *speed and distance*
+2. *profit and loss*
