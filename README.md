@@ -29,4 +29,3 @@ hello my name is vamsi
 - sphere
 - cone
 
-<vamsi>
