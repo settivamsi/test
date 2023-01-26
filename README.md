@@ -5,6 +5,6 @@ hello my name is vamsi
 
 ## to do list
 
-- [ ] javascript
-- [ ] arithmetics
-- [ ] pure maths
+- [x] javascript
+- [x] arithmetics
+- [x] pure maths
